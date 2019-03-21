@@ -11,9 +11,9 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Dentrix Dental Systems, INC.\
 The structure of the ADMX is as follows:
 
 Dentrix
---General
-------Printers
---Appointment Book
---Chart
---Ledger
---Office Manager
+General
+ Printers
+Appointment Book
+Chart
+Ledger
+Office Manager
